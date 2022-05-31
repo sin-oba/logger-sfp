@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Logdatabase01</string>
+
+    <string-array name="list">
+        <item>r</item>
+        <item>p</item>
+        <item>b</item>
+        <item>c</item>
+        <item>l</item>
+        <item>t</item>
+    </string-array>
+
+</resources>
